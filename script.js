@@ -4,7 +4,7 @@ const letters = [
 
 "Letter 2: Thank you for always making me giggly and happy whenever we are in call. Some days are usually dull. You make everything so pretty and pink",
 
-"Letter 3: I enjoy the time when we were going in the botanical garden, I always loved that memory. I don't know just it was so peaceful being with you, and I guess it made me so happy, and comforted. The day was so perfect, desipte me losing my bracelt, haha. I loved making those Tiktoks with you. I love them so much, but not as much as you.,
+"Letter 3: I enjoy the time when we were going in the botanical garden, I always loved that memory. I don't know just it was so peaceful being with you, and I guess it made me so happy, and comforted. The day was so perfect, desipte me losing my bracelt, haha. I loved making those Tiktoks with you. I love them so much, but not as much as you.",
 
 "Letter 4: Aw Andy your so sweet. I think about you in the song, Risk it All by Bruno Mars, like I always love that song. I sing it in my free time in the shower, and it remind mes of you. I'm currently listening to it right now, tears just form instantly. It's like my heart swells in such a good way. My shoulders heave down because everytime, I just realize I'm so in love with you.",
 
