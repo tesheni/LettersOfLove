@@ -56,9 +56,9 @@ const letters = [
 
 "Letter 28: thank you for always choosing me honey. I choose you everyday. I love waking up, and texting you good morning, a silly voice note, or just a little...nude action hahaha. I love waiting and then seeing my Andy responded. I love it so much. I always look forward to every morning with our without being together. ",
 
-"Letter 29",
+"Letter 29: Hey love. Soo, it's gonna be the last letter for now, but many more sooner. But just know your literally so so amazing to me. You always been there no matter what. Your so funny, prretty, a dork too who loves animals. But all those things make me love you. The way your hair is frizzy, I find it so cute, like aw, my baby just needs me to do his hair hahah. I adore the way you be YOU. I think at times,I'm just smiling like, so happy at you because I can't wait for you to be my husband. I love every part of this semester, meeting you was amazing. Your like such as dorj to me. The sweetest guy ever. I know at times I get a little snappy, I love you for just being there for me. I don't know why these things tend to happen but I will work them out together with you. Thank you for making me not feel alone when the sun goes down. Thank you for putting me to sleep. Thank you for being there for me in and out of college. It means a lot. Thank you for never making me feel like I'm annoying you or taking too much space. I always appericate what you do for me, desipte circumstances. I just remember you ran all the way to my house just so we can spend twenty mintues together. That meant a lot truly it did. I dunno. I guess you waking me, kissing me, walking me home, and opening the door together. You made home, feel safer. Because home is with you. Agh. I miss it to be honset. I think sometimes when I finally be around your neighborhood, I just instantly wanna run to you. I just miss you. I love you. Truly baby. Thank you for being my everything. Like your me, but another verison, my lover...an the next letter is the most important of them ALL!!",
 
-"Letter 30: I love you ❤️"
+"Letter 30: I love you MOREEEEEEEEEEE loser. HAH. My loser :3 Aw, but I love you more my sweet boy everyday and forever, til I die. ❤️"
 ];
 
 let current = 0;
